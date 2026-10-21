@@ -1,7 +1,3 @@
-Ascend — a Windows capture & homebrew toolkit for PS3/PS4/PS5: capture-card recording, payload organiser, web manager, FTP and music, in one app.
-
-
-
 # Ascends PS Capture program
 
 A free Windows desktop toolkit for PlayStation capture and homebrew — console profiles,
@@ -9,6 +5,16 @@ capture-card preview and recording, payload organising, a web manager, FTP and m
 all in one clean interface.
 
 Built with Python and PySide6 / Qt.
+
+## Screenshots
+
+| Capture Studio | Console Setup |
+| --- | --- |
+| ![Capture Studio](screenshots/capture-studio.png) | ![Console Setup](screenshots/console-setup.png) |
+
+| Payload Vault | Music |
+| --- | --- |
+| ![Payload Vault](screenshots/payload-vault.png) | ![Music](screenshots/music.png) |
 
 ## Download & run
 
@@ -53,4 +59,4 @@ build_exe.bat    :: produces dist\AscendToolkit\AscendToolkit.exe
 
 ## License
 
-<add your license here — e.g. MIT>
+Released under the [MIT License](LICENSE).
